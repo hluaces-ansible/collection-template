@@ -1,0 +1,5 @@
+---
+
+- name: 'Show a debug message'
+  debug:
+    msg: "Hey there! this is a debug message from the hluaces.collection-template.hello_world role!"

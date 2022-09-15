@@ -1,0 +1,20 @@
+:toc: macro
+:toc-title: Tabla de contenidos
+
+= raiola.$NOMBRE_DE_COLECCION.$DIRECTORIO_DEL_PLAYBOOK.main.yml
+
+toc::[]
+
+\[Descripción de qué hace el rol, si es idempotente o no y si soporta dry-run o no\].
+
+= Ámbito
+
+\[Descripción de a qué máquinas se supone que es el playbook capaz de provisionar (p.ej.: "_Servidores dedicados_"), así como una explicación más larga, si procede\].
+
+= Modo de uso
+
+\[Explicación de cómo se usa el _playbook_, incluyendo variables importantes. Si usa pocos roles será necesario enumerarlos y enlazar a sus _README_\].
+
+= Ejemplos de uso
+
+[Ejemplos de invocación del _playbook_, incluyendo variables, si procede\].
